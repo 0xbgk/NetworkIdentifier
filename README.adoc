@@ -1,3 +1,6 @@
 # NetworkIdentifier
+
 MAC Address, PC Name, IPv4 Address, Public IP
-image:http://imgur.com/ANDewSv[alt="ornekgraph"]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+image:http://i.imgur.com/ANDewSv.png[alt="ornekgorsel"]
